@@ -15,11 +15,11 @@ public class Main {
 
         }*/
 
-      PortfelDziecka portfelBrajanka = new PortfelDziecka(100.0);
+      PortfelDziecka portfelBrajanka = new PortfelDziecka();
+        portfelBrajanka.addMoney(50);
 
 
-
-        System.out.println();
+        System.out.println(portfelBrajanka);
 
 
     }
