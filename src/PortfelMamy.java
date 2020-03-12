@@ -1,6 +1,9 @@
 public class PortfelMamy extends Wallet{
 
-    private double amount;
+public PortfelMamy (double am) {
+
+    amount=am;
+}
 
     @Override
     public double getAmount() {

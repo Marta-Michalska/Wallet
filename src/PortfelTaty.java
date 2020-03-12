@@ -1,6 +1,6 @@
 public class PortfelTaty extends Wallet {
 
-    private double amount;
+
 
     @Override
     public double getAmount() {

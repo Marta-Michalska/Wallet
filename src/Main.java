@@ -15,7 +15,7 @@ public class Main {
 
         }*/
 
-      PortfelDziecka portfelBrajanka = new PortfelDziecka();
+      PortfelDziecka portfelBrajanka = new PortfelDziecka(100));
         portfelBrajanka.addMoney(50);
 
 
