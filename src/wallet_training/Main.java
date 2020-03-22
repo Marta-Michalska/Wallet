@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package wallet_training;
 
 public class Main {
 
@@ -15,7 +15,7 @@ public class Main {
 
         }*/
 
-      PortfelDziecka portfelBrajanka = new PortfelDziecka(100));
+      PortfelDziecka portfelBrajanka = new PortfelDziecka(100);
         portfelBrajanka.addMoney(50);
 
 

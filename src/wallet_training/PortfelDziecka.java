@@ -1,7 +1,11 @@
-public class PortfelTaty extends Wallet {
+package wallet_training;
+
+public class PortfelDziecka extends Wallet {
 
 
-
+public PortfelDziecka (double amountPD){
+    amount=amountPD;
+}
     @Override
     public double getAmount() {
         return amount;
@@ -12,9 +16,8 @@ public class PortfelTaty extends Wallet {
         this.amount = amount;
     }
 
-
     @Override
     public String toString() {
-        return "PortfelTaty = " + amount;
+        return "wallet_training.PortfelDziecka = "+ amount;
     }
 }
