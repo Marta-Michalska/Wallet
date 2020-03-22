@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e74d0644-04b5-4a0e-bf40-339db64247a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="e74d0644-04b5-4a0e-bf40-339db64247a3" name="Default Changelist" comment="CurrencyType enum created and added to wallet package.">
+      <change afterPath="$PROJECT_DIR$/src/wallet/WalletManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PortfelDziecka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PortfelDziecka.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PortfelMamy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PortfelMamy.java" afterDir="false" />
@@ -61,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584009011506</updated>
-      <workItem from="1584867676935" duration="240000" />
+      <workItem from="1584867676935" duration="744000" />
     </task>
     <task id="LOCAL-00001" summary="Deleted usunto file">
       <created>1584867749644</created>
@@ -77,7 +77,28 @@
       <option name="project" value="LOCAL" />
       <updated>1584867897619</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="MoneyType enum modified and added to wallet package">
+      <created>1584867983834</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584867983834</updated>
+    </task>
+    <task id="LOCAL-00004" summary="CustomWallet class created and added to wallet package. (implementation of wallet)">
+      <created>1584868080687</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584868080687</updated>
+    </task>
+    <task id="LOCAL-00005" summary="CurrencyType enum created and added to wallet package.">
+      <created>1584868143250</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584868143250</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,12 +120,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Deleted usunto file" />
     <MESSAGE value="New package created, Wallet class modified and added." />
-    <option name="LAST_COMMIT_MESSAGE" value="New package created, Wallet class modified and added." />
+    <MESSAGE value="MoneyType enum modified and added to wallet package" />
+    <MESSAGE value="CustomWallet class created and added to wallet package. (implementation of wallet)" />
+    <MESSAGE value="CurrencyType enum created and added to wallet package." />
+    <option name="LAST_COMMIT_MESSAGE" value="CurrencyType enum created and added to wallet package." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="118" key="CommitChangelistDialog2" timestamp="1584868080448">
+    <state x="585" y="118" key="CommitChangelistDialog2" timestamp="1584868194802">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="585" y="118" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1584868080448" />
+    <state x="585" y="118" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1584868194802" />
   </component>
 </project>
